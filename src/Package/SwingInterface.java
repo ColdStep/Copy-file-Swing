@@ -15,9 +15,7 @@ import java.nio.file.Paths;
 import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 
 
-/**
- * Created by Администратор on 12.09.2017.
- */
+
 public class SwingInterface extends ShowFile  {
     
     public static void main(String[] args) throws Exception {

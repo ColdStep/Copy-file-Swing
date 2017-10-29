@@ -30,8 +30,8 @@ public class SwingInterface extends ShowFile  {
         JLabel label = new JLabel("Копіювання файлу", SwingConstants.CENTER);
         JButton copy = new JButton("Копіювати");
 
-        JFileChooser chooser1 = new JFileChooser("C:/Users/Администратор/Desktop/test");
-        JFileChooser chooser2 = new JFileChooser("C:/Users/Администратор/Desktop/test");
+        JFileChooser chooser1 = new JFileChooser("C:/Users/fanto/Desktop/new");
+        JFileChooser chooser2 = new JFileChooser("C:/Users/fanto/Desktop/new");
         chooser2.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
 
         Panel panel1 =new Panel();

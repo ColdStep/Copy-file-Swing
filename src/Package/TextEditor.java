@@ -3,13 +3,7 @@ package Package;
 
 
 public class TextEditor {
-    /*public static void main(String[] args) {
-        String link1 ="C:\Users\Администратор\Desktop\test\first\java_shablon.txt";
-        String link2 = "C:/Users/Администратор/Desktop/test/second";
-        TextEditor textEditor = new TextEditor();
-        System.out.println(textEditor.edit(link1,link2));
-    }
-    */
+
     String textEdit(String link1 , String link2) {
         char[] list1 = new char[120];
         char[] list2 = new char[120];
